@@ -8,7 +8,7 @@ Tenho foco no desenvolvimento de soluções web, aplicações interativas e aná
 - 🤖 Apaixonado por **Inteligência Artificial**
 - 🌱 Atualmente aprendendo: **React, Ruby, Javascript e Python**
 - 🔧 Curioso sobre: **Vue.js, Docker e Deploys em Nuvem**
-
+- ☕︎ Já atuei em estágio de Java Software Developer and PostgreSQL pela empresa Aptare Tecnologia** 
 ---
 
 
