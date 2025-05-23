@@ -27,6 +27,8 @@ Tenho foco no desenvolvimento de soluções web, aplicações interativas e aná
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-D3D3D3?style=for-the-badge&logo=unity&logoColor=000000)
+
 
 
 
