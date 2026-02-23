@@ -35,8 +35,8 @@ Tenho foco no desenvolvimento de soluções web, aplicações interativas e aná
 
 ### 📊 Estatísticas no GitHub
 
-<image-card alt="Victor GitHub stats" src="https://github-readme-stats.vercel.app/api?username=victorreno2009&show_icons=true&theme=radical" ></image-card>
-<image-card alt="Top Linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorreno2009&layout=compact&theme=radical" ></image-card>
+<image-card alt="Stats" src="https://streak-stats.demolab.com?user=victorreno2009&theme=radical" ></image-card>
+<image-card alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorreno2009&theme=radical&layout=compact" ></image-card>
 
 ---
 
