@@ -1,4 +1,4 @@
-## Olá! Eu sou o Victor Reno, estudante de Ciência da Computação na UNIFOR. 
+## Olá! Eu sou o Victor Reno, Desenvolvedor de Software. 
 Tenho foco no desenvolvimento de soluções web, aplicações interativas e análise de dados. 🚀
 
 
