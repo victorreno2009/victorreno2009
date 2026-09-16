@@ -36,7 +36,7 @@ Tenho foco no desenvolvimento de soluções web, aplicações interativas e aná
 ### 📊 Estatísticas no GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=victorreno2009&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=victorreno2009&layout=compact&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorreno2009&layout=compact&theme=radical&langs_count=8)
 
 ---
 
